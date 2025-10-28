@@ -8,6 +8,8 @@
 Use **subqueries** in `SELECT`, `WHERE`, and `FROM` clauses to build advanced SQL logic and filtering.
 
 ---
+## Tools
+MySQL Workbench
 
 ##  Database Schema
 
